@@ -1,0 +1,9 @@
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\bin\Debug\ErrorTransaction.exe.config
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\bin\Debug\ErrorTransaction.exe
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\bin\Debug\ErrorTransaction.pdb
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\obj\Debug\ErrorTransaction.csprojAssemblyReference.cache
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\obj\Debug\ErrorTransaction.Properties.Resources.resources
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\obj\Debug\ErrorTransaction.csproj.GenerateResource.cache
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\obj\Debug\ErrorTransaction.csproj.CoreCompileInputs.cache
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\obj\Debug\ErrorTransaction.exe
+D:\Darwin Personal\for Dinakar\Dinakar\Dinakar\ErrorTransaction\ErrorTransaction\obj\Debug\ErrorTransaction.pdb
